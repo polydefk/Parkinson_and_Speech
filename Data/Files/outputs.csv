@@ -1,0 +1,10 @@
+model,fscore,roc,accuracy,precision,recall,epochs
+CRNN,0.701,0.701,0.701,0.701,25
+model,fscore,roc,accuracy,precision,recall,epochs
+deepLSTM,0.611,0.611,0.611,0.611,25
+model,fscore,roc,accuracy,precision,recall,epochs
+deepCNN,0.641,0.641,0.641,0.641,25
+model,fscore,roc,accuracy,precision,recall,epochs
+resNET,0.641,0.641,0.641,0.641,25
+model,fscore,roc,accuracy,precision,recall,epochs
+BiLSTM,0.641,0.641,0.641,0.641,25
